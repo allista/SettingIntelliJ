@@ -1,0 +1,131 @@
+<scheme name="custom" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="40de2c" />
+    <option name="DELETED_LINES_COLOR" value="c66453" />
+    <option name="MODIFIED_LINES_COLOR" value="f7ee41" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="c7ede0" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="e79d04" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="29800f" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="29800f" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="2e33b3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a13661" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="c3" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="109797" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="a17b0a" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="4f2" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="eb800" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4f2" />
+        <option name="BACKGROUND" value="e4e4ff" />
+        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="c3" />
+      </value>
+    </option>
+    <option name="PY.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="91938c" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="aa00a0" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="aa00a0" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="94558d" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="55ff3b" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fffa10" />
+        <option name="BACKGROUND" value="1d24ff" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+      </value>
+    </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_COLOR" value="aaaf4d" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4f2" />
+        <option name="BACKGROUND" value="ffe4ff" />
+        <option name="ERROR_STRIPE_COLOR" value="f0adf0" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

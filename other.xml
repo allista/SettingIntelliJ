@@ -1,0 +1,44 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+    <option name="INSERT_TYPE_DOCSTUB" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/usr/bin/python2.7" value="true" />
+        <entry key="/usr/bin/python3.4" value="false" />
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/usr/bin/python2.7" value="true" />
+        <entry key="/usr/bin/python3.4" value="false" />
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/usr/bin/python3.4" value="false" />
+        <entry key="/usr/bin/python3.5" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

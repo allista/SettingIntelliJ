@@ -1,0 +1,11 @@
+<code_scheme name="Default (1)">
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <Python>
+    <option name="NEW_LINE_AFTER_COLON_MULTI_CLAUSE" value="false" />
+    <option name="DICT_ALIGNMENT" value="1" />
+    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
+  </Python>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+</code_scheme>
