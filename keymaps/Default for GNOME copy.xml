@@ -28,6 +28,9 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Move" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
