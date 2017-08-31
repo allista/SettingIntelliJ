@@ -11,7 +11,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@cdpdev.lpr.jet.msk.su:Pluton/pluton-audit.git" />
+          <option name="url" value="git@cdpdev.lpr.jet.msk.su:Pluton/common-py.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@cdpdev.lpr.jet.msk.su:Pluton/pluton-scs-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@cdpdev.lpr.jet.msk.su:Pluton/database.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

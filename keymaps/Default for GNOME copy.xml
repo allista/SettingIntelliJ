@@ -5,6 +5,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="DBNavigator.Actions.Execute">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="EditSource">
