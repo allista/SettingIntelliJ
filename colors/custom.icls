@@ -1,5 +1,5 @@
 <scheme name="custom" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
@@ -108,8 +108,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fffa10" />
-        <option name="BACKGROUND" value="1d24ff" />
+        <option name="FOREGROUND" value="ffde60" />
+        <option name="BACKGROUND" value="4d76b2" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
