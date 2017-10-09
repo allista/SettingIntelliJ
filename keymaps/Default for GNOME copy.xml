@@ -34,6 +34,10 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
   </action>
+  <action id="NewElementSamePlace" />
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
