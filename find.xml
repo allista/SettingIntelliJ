@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '[sus-sensor-api-client-py] - /home/storage/Games/Projects/Pluton/sus-sensor-api-client-py/plutonclient'" />
+    <option name="defaultScopeName" value="Directory '[sus-sensor-api-client-py] - /home/storage/Games/Projects/Pluton/sus-sensor-api-client-py/plutonclient'" />
+    <option name="SEARCH_SCOPE" value="Directory '[sus-sensor-api-client-py] - /home/storage/Games/Projects/Pluton/sus-sensor-api-client-py/plutonclient'" />
   </component>
 </application>
