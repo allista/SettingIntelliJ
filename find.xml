@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '[pluton-python-jsonschema-objects] - /home/storage/Games/Projects/Pluton/pluton-python-jsonschema-objects/python_jsonschema_objects'" />
-    <option name="defaultScopeName" value="Directory '[pluton-python-jsonschema-objects] - /home/storage/Games/Projects/Pluton/pluton-python-jsonschema-objects/python_jsonschema_objects'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[pluton-python-jsonschema-objects] - /home/storage/Games/Projects/Pluton/pluton-python-jsonschema-objects/python_jsonschema_objects'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
