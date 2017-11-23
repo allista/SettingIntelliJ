@@ -61,6 +61,9 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="ShowFilePath">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f6" />
   </action>
