@@ -41,6 +41,9 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
@@ -57,6 +60,9 @@
   <action id="RestoreDefaultLayout" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="ShowFilePath">
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f6" />
@@ -75,5 +81,8 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt comma" />
   </action>
 </keymap>

@@ -23,8 +23,20 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@cdpdev.lpr.jet.msk.su:Pluton/pluton-audit.git" />
+          <option name="url" value="git@cdpdev.lpr.jet.msk.su:Pluton/pluton-sensor-config.git" />
           <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@cdpdev.lpr.jet.msk.su:Pluton/pluton-user-control.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@cdpdev.lpr.jet.msk.su:Pluton/ids-rules-updater.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="allista" />
         </UrlAndUserName>
       </list>
     </option>
