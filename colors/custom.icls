@@ -1,7 +1,4 @@
 <scheme name="custom" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="40de2c" />
     <option name="DELETED_LINES_COLOR" value="c66453" />
