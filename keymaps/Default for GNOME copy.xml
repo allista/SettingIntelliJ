@@ -1,12 +1,6 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
   <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="alt w" />
-  </action>
-  <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-  <action id="DBNavigator.Actions.Execute">
-    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
@@ -31,18 +25,8 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Move" />
-  <action id="NewElement">
-    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
-  </action>
-  <action id="NewElementSamePlace" />
-  <action id="NewScratchFile">
-    <keyboard-shortcut first-keystroke="ctrl alt insert" />
-  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
-  </action>
-  <action id="PasteMultiple">
-    <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
@@ -54,15 +38,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
-  </action>
   <action id="RestoreDefaultLayout" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f8" />
-  </action>
-  <action id="ShowFilePath">
-    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f6" />
@@ -81,8 +59,5 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
-  <action id="Vcs.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="alt comma" />
   </action>
 </keymap>
