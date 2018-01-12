@@ -9,7 +9,7 @@
   <tool name="pylint3" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="pylint3" />
-      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="PARAMETERS" value="-d C0302 -d C0111 -d R0903 -d C0103 -d C0302 -d R0913 $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
