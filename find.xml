@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '~/Projects/Pluton/pluton-audit/pluton_audit [pluton-audit]'" />
-    <option name="defaultScopeName" value="Directory '~/Projects/Pluton/pluton-audit/pluton_audit [pluton-audit]'" />
+    <option name="customScope" value="Directory '~/Projects/Pluton/pluton-homenet-control/client/pluton_homenet_control_client [pluton-homenet-control]'" />
+    <option name="defaultScopeName" value="Directory '~/Projects/Pluton/pluton-homenet-control/client/pluton_homenet_control_client [pluton-homenet-control]'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '~/Projects/Pluton/pluton-audit/pluton_audit [pluton-audit]'" />
+    <option name="SEARCH_SCOPE" value="Directory '~/Projects/Pluton/pluton-homenet-control/client/pluton_homenet_control_client [pluton-homenet-control]'" />
   </component>
 </application>
