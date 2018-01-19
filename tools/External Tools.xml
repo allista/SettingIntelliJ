@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="2to3" description="python2 to python3 conversion tool" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="2to3" />
+      <option name="PARAMETERS" value="-w $FilePath$" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
