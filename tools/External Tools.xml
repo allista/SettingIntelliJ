@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="2to3" />
       <option name="PARAMETERS" value="-w $FilePath$" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
