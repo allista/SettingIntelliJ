@@ -16,8 +16,8 @@
   <tool name="mypy" description="Static type checker" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$ProjectFileDir$/../../mypy.sh" />
-      <option name="PARAMETERS" value="$Projectpath$ --follow-imports silent --disallow-incomplete-defs --check-untyped-defs --warn-redundant-casts --warn-return-any --warn-unused-ignores --warn-unused-configs $FilePath$" />
-      <option name="WORKING_DIRECTORY" value="/" />
+      <option name="PARAMETERS" value="$Projectpath$ $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
     <filter>
       <option name="NAME" value="" />
