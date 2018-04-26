@@ -9,8 +9,25 @@
   <tool name="pylint3" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="pylint3" />
-      <option name="PARAMETERS" value="-d C0302 -d C0111 -d R0903 -d C0103 -d C0302 -d R0913 $FilePath$" />
+      <option name="PARAMETERS" value="--rcfile=$ProjectFileDir$/.pylintrc $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
+    <filter>
+      <option name="NAME" value="" />
+      <option name="DESCRIPTION" value="" />
+      <option name="REGEXP" value="$FILE_PATH$\:\s*$LINE$\:.*" />
+    </filter>
+  </tool>
+  <tool name="mypy" description="Static type checker" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$/../../mypy.sh" />
+      <option name="PARAMETERS" value="$Projectpath$ $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+    <filter>
+      <option name="NAME" value="" />
+      <option name="DESCRIPTION" value="" />
+      <option name="REGEXP" value="$FILE_PATH$\:$LINE$\:.*" />
+    </filter>
   </tool>
 </toolSet>
