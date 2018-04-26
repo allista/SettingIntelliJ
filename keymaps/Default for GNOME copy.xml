@@ -20,6 +20,7 @@
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
+  <action id="FileStructurePopup" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -78,5 +79,8 @@
   </action>
   <action id="Tool_Lint_mypy">
     <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="Tool_Lint_pylint3">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
 </keymap>
