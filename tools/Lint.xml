@@ -21,7 +21,7 @@
   <tool name="mypy" description="Static type checker" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$ProjectFileDir$/mypy.sh" />
-      <option name="PARAMETERS" value="$Projectpath$ --no-incremental $FilePath$" />
+      <option name="PARAMETERS" value="&quot;$Projectpath$:../venv/lib/python3.5/site-packages/&quot; --no-incremental $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
     <filter>
