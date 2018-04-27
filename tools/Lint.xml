@@ -21,12 +21,12 @@
   <tool name="mypy" description="Static type checker" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$ProjectFileDir$/mypy.sh" />
-      <option name="PARAMETERS" value="$Projectpath$ $FilePath$" />
+      <option name="PARAMETERS" value="$Projectpath$ --no-incremental $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
     <filter>
-      <option name="NAME" value="No name" />
-      <option name="DESCRIPTION" />
+      <option name="NAME" value="" />
+      <option name="DESCRIPTION" value="" />
       <option name="REGEXP" value="$FILE_PATH$\:$LINE$\:.*" />
     </filter>
   </tool>
