@@ -13,6 +13,9 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
