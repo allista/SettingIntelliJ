@@ -12,13 +12,11 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".pylintrc" type="Ini" />
+      <mapping ext="conf" type="Ini" />
       <mapping pattern=".testr.conf" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="pluton-health-monitor" type="Python" />
-      <mapping ext="conf" type="Ini" />
-      <mapping pattern=".pylintrc" type="Ini" />
     </extensionMap>
   </component>
 </application>
