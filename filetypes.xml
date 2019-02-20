@@ -12,6 +12,7 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="build" type="Dockerfile" />
       <mapping pattern=".pylintrc" type="Ini" />
       <mapping ext="conf" type="Ini" />
       <mapping ext="service" type="Ini" />
