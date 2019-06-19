@@ -66,6 +66,14 @@
           <option name="url" value="git@github.com:KovalchukKonstantin/lifesimulation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.jet.su" />
+          <option name="userName" value="taranov" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.jet.su/av.trifonov/the_game_of_life.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects" />
