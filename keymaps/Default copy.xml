@@ -1,4 +1,10 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="BuildCurrentProject">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="BuildSolutionAction">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -11,4 +17,5 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="StepOver" />
 </keymap>
