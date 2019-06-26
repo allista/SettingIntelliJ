@@ -5,10 +5,14 @@
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
