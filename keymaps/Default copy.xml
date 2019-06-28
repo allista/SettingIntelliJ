@@ -28,16 +28,21 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
   <action id="RestoreDefaultLayout" />
   <action id="StepOver" />
