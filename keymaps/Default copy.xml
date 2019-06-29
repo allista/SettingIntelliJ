@@ -34,6 +34,9 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -43,6 +46,9 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="RestoreDefaultLayout" />
   <action id="StepOver" />
