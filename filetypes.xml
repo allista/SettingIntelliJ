@@ -15,11 +15,9 @@
       <mapping ext="build" type="Dockerfile" />
       <mapping pattern=".pylintrc" type="Ini" />
       <mapping ext="conf" type="Ini" />
-      <mapping ext="service" type="Ini" />
       <mapping pattern=".testr.conf" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping pattern="pluton-health-monitor" type="Python" />
-      <removed_mapping ext="service" type="Service unit configuration for systemd" />
     </extensionMap>
   </component>
 </application>
