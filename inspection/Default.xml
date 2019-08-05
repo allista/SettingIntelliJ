@@ -5,6 +5,9 @@
       <list>
         <option value="KerbalStuff.objects.User.query" />
         <option value="KerbalStuff.objects.Mod.query" />
+        <option value="KerbalStuff.objects.GameVersion.query" />
+        <option value="KerbalStuff.objects.Game.query" />
+        <option value="KerbalStuff.objects.Publisher.query" />
       </list>
     </option>
   </inspection_tool>
