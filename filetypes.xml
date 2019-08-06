@@ -12,6 +12,8 @@
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Dockerfile-celery" type="Dockerfile" />
+      <mapping pattern="Dockerfile-prod" type="Dockerfile" />
       <mapping ext="build" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
