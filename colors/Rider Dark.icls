@@ -1,14 +1,14 @@
-<scheme name="_@user_Rider Dark" version="142" parent_scheme="Darcula">
+<scheme name="Rider Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-06-26T01:29:49</property>
-    <property name="ide">Rider</property>
-    <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-26T01:34:24</property>
-    <property name="originalScheme">Rider Dark</property>
+    <property name="created">2019-09-03T05:35:10</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2019.2.1.0.0</property>
+    <property name="modified">2019-09-03T11:12:26</property>
+    <property name="originalScheme">_@user_Rider Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="25401a" />
@@ -46,10 +46,10 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="787878" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="888899" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="88889940" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="3838380" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="838380" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="88889940" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="88889940" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="3838380" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="838380" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="888899" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="888899" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="383838" />
@@ -58,10 +58,10 @@
     <option name="ScrollBar.Mac.trackColor" value="383838" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="888899" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="888899" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="3838380" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="838380" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="88889940" />
     <option name="ScrollBar.Transparent.thumbColor" value="88889940" />
-    <option name="ScrollBar.Transparent.trackColor" value="3838380" />
+    <option name="ScrollBar.Transparent.trackColor" value="838380" />
     <option name="ScrollBar.background" value="383838" />
     <option name="ScrollBar.hoverThumbBorderColor" value="888899" />
     <option name="ScrollBar.hoverThumbColor" value="888899" />
@@ -806,9 +806,7 @@
       </value>
     </option>
     <option name="HTML_CODE">
-      <value>
-        <option name="FOREGROUND" value="bdbdbd" />
-      </value>
+      <value />
     </option>
     <option name="HTML_COMMENT">
       <value>
@@ -1107,6 +1105,14 @@
         <option name="FOREGROUND" value="ffce91" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LESS_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff6254" />
@@ -1308,8 +1314,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f0f0f0" />
-        <option name="BACKGROUND" value="4d264b" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
