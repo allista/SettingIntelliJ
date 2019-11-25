@@ -27,6 +27,7 @@
         <option value="KerbalStuff.objects.FollowEvent.query" />
         <option value="KerbalStuff.objects.Media.query" />
         <option value="KerbalStuff.objects.ReferralEvent.query" />
+        <option value="type.T" />
       </list>
     </option>
   </inspection_tool>
