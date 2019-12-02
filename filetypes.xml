@@ -12,6 +12,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="netkan" type="JSON" />
+      <mapping pattern="convert_schemas" type="Python" />
     </extensionMap>
   </component>
 </application>
