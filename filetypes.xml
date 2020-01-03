@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="netkan" type="JSON" />
       <mapping pattern="convert_schemas" type="Python" />
+      <removed_mapping ext="cfg" approved="true" type="C#" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
