@@ -38,6 +38,9 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Hg.Commit.And.Push.Executor" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
   <action id="Move" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
