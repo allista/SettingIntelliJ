@@ -25,8 +25,6 @@
     <pattern icon="important" pattern="\bNotImplementedException\b" />
     <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
-    <filter name="debug">
-      <pattern index="-1" />
-    </filter>
+    <filter name="debug" />
   </component>
 </application>
