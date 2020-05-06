@@ -42,9 +42,17 @@
     <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
   </action>
   <action id="Move" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
