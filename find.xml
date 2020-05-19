@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../packages/ls-graph-client/src/components [rros-client-workspace]'" />
-    <option name="defaultScopeName" value="Directory '.../packages/ls-graph-client/src/components [rros-client-workspace]'" />
+    <option name="customScope" value="Directory '~/Projects/RRos/smev-adapter-client/src [smev-adapter-client]'" />
+    <option name="defaultScopeName" value="Directory '~/Projects/RRos/smev-adapter-client/src [smev-adapter-client]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../packages/ls-graph-client/src/components [rros-client-workspace]'" />
+    <option name="SEARCH_SCOPE" value="Directory '~/Projects/RRos/smev-adapter-client/src [smev-adapter-client]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
