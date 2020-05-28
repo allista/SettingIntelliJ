@@ -3,29 +3,28 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
-    <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
-    <option name="REFORMAT_ON_PASTE" value="2" />
-    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
-  </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="IS_DND_ENABLED" value="false" />
-    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern icon="question" pattern="\btodo\b.*" />
-    <pattern icon="important" pattern="\bfixme\b.*" />
-    <pattern pattern="\bdebug\b.*" />
+    <pattern pattern="(?&lt;!^\s*//.+//)(?&lt;TAG&gt;DEBUG)(\W|$)(.*)" />
+    <pattern icon="important" pattern="\bNotImplementedException\b" />
+    <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+    <filter name="debug" />
   </component>
 </application>
