@@ -42,6 +42,12 @@
     <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
   </action>
   <action id="Move" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
