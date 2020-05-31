@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ConfigurableContainers'" />
-    <option name="defaultScopeName" value="Project 'ConfigurableContainers'" />
-    <option name="SEARCH_SCOPE" value="Project 'ConfigurableContainers'" />
+    <option name="customScope" value="File '.../AT_Utils/ConfigurableContainers/VolumeConfigsLibrary.cs'" />
+    <option name="defaultScopeName" value="File '.../AT_Utils/ConfigurableContainers/VolumeConfigsLibrary.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../AT_Utils/ConfigurableContainers/VolumeConfigsLibrary.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
