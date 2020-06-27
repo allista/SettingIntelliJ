@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ThrottleControlledAvionics'" />
-    <option name="defaultScopeName" value="Project 'ThrottleControlledAvionics'" />
-    <option name="SEARCH_SCOPE" value="Project 'ThrottleControlledAvionics'" />
+    <option name="customScope" value="File '.../ThrottleControlledAvionics/TCAEngineInfo.cs'" />
+    <option name="defaultScopeName" value="File '.../ThrottleControlledAvionics/TCAEngineInfo.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../ThrottleControlledAvionics/TCAEngineInfo.cs'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
