@@ -27,12 +27,12 @@
   <component name="TodoConfiguration">
     <pattern icon="important" pattern="\bNotImplementedException\b" />
     <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
-    <pattern pattern="^((?!\s*//.+).+)//\s*(debug)$" />
     <pattern useCustomColors="true" pattern="(?&lt;!^\s*//.+//)(?&lt;TAG&gt;DEBUG)(\W|$)(.*)">
       <option name="FOREGROUND" value="a8c023" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+    <pattern pattern="^((?!\s*//.+).+)//\s*(debug)$" />
   </component>
 </application>
