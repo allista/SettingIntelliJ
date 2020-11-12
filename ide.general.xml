@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="defaultProjectDirectory" value="$USER_HOME$/Projects" />
     <option name="reopenLastProject" value="false" />
+    <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
