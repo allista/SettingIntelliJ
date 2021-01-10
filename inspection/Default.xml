@@ -1,3 +1,34 @@
-<inspections profile_name="Default" version="1.0">
+<profile version="1.0">
   <option name="myName" value="Default" />
-</inspections>
+  <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredPackages">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="daemon" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="KerbalStuff.objects.User.query" />
+        <option value="KerbalStuff.objects.Mod.query" />
+        <option value="KerbalStuff.objects.GameVersion.query" />
+        <option value="KerbalStuff.objects.Game.query" />
+        <option value="KerbalStuff.objects.Publisher.query" />
+        <option value="KerbalStuff.objects.ModVersion.append" />
+        <option value="KerbalStuff.objects.Featured.query" />
+        <option value="KerbalStuff.objects.ModVersion.query" />
+        <option value="KerbalStuff.objects.BlogPost.query" />
+        <option value="KerbalStuff.objects.ModList.query" />
+        <option value="KerbalStuff.objects.UserAuth.query" />
+        <option value="KerbalStuff.objects.DownloadEvent.query" />
+        <option value="KerbalStuff.objects.FollowEvent.query" />
+        <option value="KerbalStuff.objects.Media.query" />
+        <option value="KerbalStuff.objects.ReferralEvent.query" />
+        <option value="type.T" />
+      </list>
+    </option>
+  </inspection_tool>
+</profile>
