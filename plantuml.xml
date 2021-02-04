@@ -1,5 +1,9 @@
 <application>
   <component name="PlantUmlSettingsNew">
+    <option name="PLANTUML_LIMIT_SIZE" value="" />
+    <option name="customPlantumlJarPath" value="" />
+    <option name="defaultExportFileFormat" value="SVG" />
+    <option name="includedPaths" value="" />
     <option name="lastBundledVersion" value="1.2021.01" />
   </component>
 </application>
