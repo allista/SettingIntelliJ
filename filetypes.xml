@@ -2,13 +2,19 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="netkan" type="JSON" />
-      <mapping pattern="convert_schemas" type="Python" />
-      <mapping pattern="hooks" type="TypeScript" />
+      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="cfg" approved="true" type="C#" />
-      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
-      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="hooks" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
